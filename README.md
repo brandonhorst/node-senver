@@ -1,7 +1,7 @@
 senver(1) -- The sentimental versioner for npm
 ===========
 
-senver is a drop-in replacement for [semver](https://github.com/npm/node-semver). Add it to your project today to make your versioning much more fun.
+senver is a drop-in replacement for [semver](https://github.com/npm/node-semver). Add it to your project today to make your versioning much more fun. For more info, see the [sentimental-versioning specification](http://sentimentalversioning.org)
 
 ##Usage
 
