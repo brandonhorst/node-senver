@@ -1,0 +1,29 @@
+{
+  "name": "senver",
+  "version": "0.0.0",
+  "trueVersion": "0.O.o",
+  "description": "The senver parser for node (http://sentimentalversioning.org/)",
+  "main": "senver.js",
+  "scripts": {
+    "test": "echo \"Eh, it's bound to work just fine\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonhorst/node-senver.git"
+  },
+  "keywords": [
+    "node",
+    "senver",
+    "sentimental",
+    "version",
+    "versioning",
+    "semver",
+    "lol"
+  ],
+  "author": "Brandon Horst <brandonhorst@gmail.com> (http://github.com/brandonhorst)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/brandonhorst/node-senver/issues"
+  },
+  "homepage": "https://github.com/brandonhorst/node-senver"
+}
